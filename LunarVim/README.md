@@ -13,7 +13,8 @@ LunarVim installation
 ---------------------
 
 
-Download latest [neovim version](https://github.com/neovim/neovim/releases/tag/stable).
+Download the latest [neovim version](https://github.com/neovim/neovim/releases/tag/stable).
+
 Note: You need to pick specific version of neovim. For example, if you are using Macos, choose macos-neovim, etc.
 
 After downloading tar archive, extract it and move nvim-extracted/bin/nvim to /usr/bin directory.
