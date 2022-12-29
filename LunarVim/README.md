@@ -1,4 +1,3 @@
-=====================
 LunarVim installation
 =====================
 
@@ -27,7 +26,15 @@ LV_BRANCH='release-1.2/neovim-0.8' bash <(curl -s https://raw.githubusercontent.
 
 ````
 
+
 On installation you don't need rust and nodejs dependencies.
+
+After installation move lvim to system PATH:
+
+```bash
+mv .local/bin/lvim /usr/bin
+
+```
 
 After successful LunarVim installation, open LunarVim with command `lvim`.
 
@@ -38,10 +45,10 @@ LunarVim configuration
 ----------------------
 
 
-- Clone dotfiles from gitlab: 
+- Clone dotfiles from Github: 
 
 ```bash 
-git clone https://gitlab.com/dzemal.memic/dotfiles.git
+git clone https://github.com/DzemalMemic/dotfiles.git
 ```
 
 - Create nvim config directory (if it is not already created): 
