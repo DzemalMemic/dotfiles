@@ -1,0 +1,34 @@
+# Font configuration
+font:
+  # Normal (roman) font face
+  normal:
+    family: "Source Code Pro"
+    style: Medium
+
+  # Bold font face
+  bold:
+    family: "Source Code Pro"
+    style: Bold
+
+  # Italic font face
+  italic:
+    family: "Source Code Pro"
+    style: Italic
+
+  # Bold italic font face
+  bold_italic:
+    family: "Source Code Pro"
+    style: Bold Italic
+
+  # Point size
+  size: 14.0
+
+  # Offset
+  #offset:
+  #  x: 0
+  #  y: 0
+
+  # Glyph offset
+  #glyph_offset:
+  #  x: 0
+  #  y: 0
