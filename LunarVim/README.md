@@ -66,7 +66,7 @@ cp -r dotfiles/LunarVim/config.lua dotfiles/LunarVim/lua ~/.config/lvim
 The content of the nvim directory should be:
 
 ```bash
-init.lua  lua
+config.lua  lua
 ```
 
 - Open your lvim editor and insert lvim command:
