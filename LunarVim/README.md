@@ -32,7 +32,7 @@ On installation you don't need rust and nodejs dependencies.
 After installation move lvim to system PATH:
 
 ```bash
-mv .local/bin/lvim /usr/bin
+mv ~/.local/bin/lvim /usr/bin
 
 ```
 
