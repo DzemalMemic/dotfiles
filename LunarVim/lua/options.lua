@@ -1,5 +1,6 @@
 
 vim.cmd "set inccommand=split"
+vim.cmd "set clipboard="
 vim.opt.termguicolors = true
 
 vim.g.tokyonight_colors = {
