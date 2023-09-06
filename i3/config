@@ -57,7 +57,7 @@ exec_always feh --bg-fill /usr/share/backgrounds/i3/wall.png
 gaps inner 15
 
 #Compositor. This helps in transparency and fading.
-exec_always picom -f
+exec_always picom -inactive-dim-fixed
 
 # Lock Screen This will yield a black lock screen, which
 # can be customized to your liking.
