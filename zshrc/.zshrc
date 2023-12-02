@@ -27,7 +27,7 @@ plugins=(
   git-extras
   docker
   vagrant
-  autojump
+  #autojump
   zsh-autosuggestions
   zsh-syntax-highlighting
   fzf
